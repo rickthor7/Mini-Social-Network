@@ -1,4 +1,3 @@
-Tentu, ini dia contoh README.md yang lengkap untuk proyek Simulasi Jejaring Sosial Sederhana (Mini Social Network) yang telah direvisi:
 # Simulasi Jejaring Sosial Sederhana C++ (Mini Social Network)
 
 Proyek ini adalah sebuah program konsol C++ yang mengimplementasikan model dasar dari jejaring sosial. Pengguna dapat ditambahkan ke jaringan, dapat membentuk pertemanan, dan program dapat melakukan analisis dasar terhadap koneksi antar pengguna, seperti mencari teman bersama, menghitung jarak pertemanan, dan menyarankan teman baru.
